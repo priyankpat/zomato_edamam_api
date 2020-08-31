@@ -19,6 +19,6 @@
     "nocache": "^2.1.0",
     "on-headers": "^1.0.2",
     "response-time": "^2.3.2",
-    "zomato-api": "^0.1.2"
+    "zomato-api": "git+https://github.com/priyankpat/zomato-api.git"
   }
 }
